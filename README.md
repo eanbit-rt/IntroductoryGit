@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is an introduction to GitHub course. We intend to take you through creating an account to being able to collaborate with colleagues using Git and GitHub. We will resources that have been prepared by the lovely Git community, and made available under CC-BY license. If you are using this curriculum to learn Git, we recommend you go through the materials sequentially. Nevertheless, if you have a certain experience, feel free to skip to the content of interest to you. 
+This is an introduction to GitHub course. We intend to take you through creating an account to being able to collaborate with colleagues using Git and GitHub. We will resources that have been prepared by the lovely Git community, and made available under CC-BY license. If you are using this curriculum to learn Git, we recommend you go through the materials sequentially. Nevertheless, if you have a certain experience, feel free to skip to the content of interest to you.
 
 
 ## Content
