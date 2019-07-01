@@ -21,4 +21,4 @@ To set up the Git command line, follow [these instructions](https://help.github.
 ## Practice repositories
 We have two repositories that we will use to practice Forking and Collaboration.
 - [MyFirstFork](https://github.com/BioinfoNet/MyFirstFork)
-- [Instituitions](https://github.com/BioinfoNet/Instituitions)
+- [EANBiT-RT Profile](https://github.com/eanbit-rt2019/EANBiT-RT2019)
