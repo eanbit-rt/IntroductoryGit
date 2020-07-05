@@ -1,5 +1,3 @@
-
-
 # Learning Git and GitHub
 
 
@@ -18,7 +16,9 @@ To set up the Git command line, follow [these instructions](https://help.github.
 4. [Git Cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 5. [GitHub Guides](https://guides.github.com/). Use these guides to continue practicing GitHub
 
+
 ## Practice repositories
 We have two repositories that we will use to practice Forking and Collaboration.
 - [MyFirstFork](https://github.com/BioinfoNet/MyFirstFork)
 - [EANBiT-RT Profile](https://github.com/eanbit-rt2019/EANBiT-RT2019)
+
