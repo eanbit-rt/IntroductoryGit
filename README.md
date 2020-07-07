@@ -1,5 +1,6 @@
 # Learning Git and GitHub
 
+A change
 
 ## Introduction
 This is an introduction to GitHub course. We intend to take you through from creating a GitHub account to being able to collaborate using Git and GitHub. We will use resources that have been prepared by the lovely Git community, and made available under CC-BY license.
