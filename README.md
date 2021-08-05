@@ -16,6 +16,7 @@ To set up the Git command line, follow [these instructions](https://help.github.
 3. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 4. [Git Cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 5. [GitHub Guides](https://guides.github.com/). Use these guides to continue practicing GitHub
+6. [Git Exercises](https://github.com/martinjrobins/exercise)
 
 
 ## Practice repositories
